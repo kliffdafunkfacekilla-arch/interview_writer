@@ -1,0 +1,7 @@
+project_id = "story-forge"
+
+[functions.generate-text]
+verify_jwt = false
+
+[functions.ai-story-chat]
+verify_jwt = false
